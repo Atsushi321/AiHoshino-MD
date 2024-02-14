@@ -9,6 +9,26 @@
 
 <img src="Estrella/emojis/Robot.png" width="30">
 
+```js
+PARA USAR LOS EMOJIS, TE DEJARE UN EJEMPLO, TIENES QUE DIRECCIONAR LAS CARPETAS, ES DECIR, SABERSE BIEN EN DONDE QUEDAN DE UNA CARPETA A OTRA.
+
+1 tu carpeta iniciar es: Estrella
+
+2 La carpeta que tiene los emojis es: emojis
+
+3 Puedes seleccionar los emojis tal como se vean su nombre, por ejemplo: Comet.png
+----------------------
+Ejemplar:
+
+1:
+<img src="•Carpeta iniciar•/•carpeta ubicada•/•nombre del emoji•" width="30">
+--------
+2:
+<img src="Estrella/emojis/Comet.png" width="30">
+```
+### Demostracion del comando:
+<img src="Estrella/emojis/Comet.png" width="30">
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A100D6&height=120&section=footer"/>
 
 [![received-969062884636658.jpg](https://i.postimg.cc/3wXBh3DH/received-969062884636658.jpg)](https://postimg.cc/5Htvqd3P)
