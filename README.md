@@ -7,7 +7,7 @@
 
 [![received-1449580708970867.jpg](https://i.postimg.cc/KvjJTXCn/received-1449580708970867.jpg)](https://postimg.cc/4mC6C0fd)
 
-<img src="Estrella/emoji/Robot.png" width="30">
+<img src="Estrella/emojis/Robot.png" width="30">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A100D6&height=120&section=footer"/>
 
