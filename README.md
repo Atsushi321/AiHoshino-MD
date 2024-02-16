@@ -1,5 +1,3 @@
-<span style="border: 2px solid #ff9f00; padding: 5px; border-radius: 50%; font-size: 20px;">
-
 # `🌌 AiHoshino-MD 🌌`
 
 ## `🥀 Bienvenido a mi Repositorio espero que les guste y les sea de ayuda 💐`
