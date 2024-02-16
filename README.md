@@ -1,4 +1,4 @@
-<span style="border: 2px solid #ff9f00; padding: 5px; border-radius: 50%; font-size: 20px;">¡Bienvenido a mi repositorio estrellado!</span>
+<span style="border: 2px solid #ff9f00; padding: 5px; border-radius: 50%; font-size: 20px;">
 
 # `🌌 AiHoshino-MD 🌌`
 
