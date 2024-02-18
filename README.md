@@ -44,4 +44,8 @@ Ejemplar:
 
 <img src="Estrella/emojis/Star.png" width="30">
 
-## '☀☀ Creador: Mangara Edad 19 Año 2004 🍁🍁'
+# '☀ Creador: Mangara 
+# Edad 19 
+# Año 2004 
+# Mis gustos son la música entre variedad, juegos, leer, y sobre todo aprender cosas nuevas.🍁'
+
