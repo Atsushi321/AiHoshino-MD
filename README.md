@@ -49,4 +49,4 @@ Ejemplar:
 # Año 2004 
 # Mis gustos son la música entre variedad, juegos, leer, y sobre todo aprender cosas nuevas.🍁'
 
-<img src="Estrella/emojis/Fox.png" width="30"> Buenos días/tardes aca les traigo una guia para como poder instalar imagenes en momiento. <img src="Estrella/emojis/Fox.png" width="30">
+<img src="Estrella/emojis/Fox.png" width="30"> Buenos días/tardes aca les traigo una guia para, como poder instalar imagenes en momiento. <img src="Estrella/emojis/Fox.png" width="30">
