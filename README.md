@@ -49,4 +49,5 @@ Ejemplar:
 # Año 2004 
 # Mis gustos son la música entre variedad, juegos, leer, y sobre todo aprender cosas nuevas.🍁'
 
-<img src="Estrella/emoji/Fox.png" width="30"> Aca les traigo una guia de cómo instalar,imagenes en movimiento(Anime,ciudades,lugares,animales.etc)<img src="Estrella/emoji/Fox.png" width="30">
+```js
+<img src="Estrella/emoji/Fox.png" width="30"> Buenos días/tardes aca les traigo una guia para como poder instalar imagenes en momiento. <img src="Estrella/emoji/Fox.png" width="30">
