@@ -49,3 +49,4 @@ Ejemplar:
 # Año 2004 
 # Mis gustos son la música entre variedad, juegos, leer, y sobre todo aprender cosas nuevas.🍁'
 
+<img src="Estrella/emoji/Fox.png" width="30"> Una Guia para cómo instalar Imagenes en movimientos, anime, ciudades, animales etc.<img src="Estrella/emoji/Fox.png" width="30">
