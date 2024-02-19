@@ -50,3 +50,23 @@ Ejemplar:
 # Mis gustos son la música entre variedad, juegos, leer, y sobre todo aprender cosas nuevas.🍁'
 
 <img src="Estrella/emojis/Fox.png" width="30"> Buenos días/tardes aca les traigo una guia para, como poder instalar imagenes en momiento. <img src="Estrella/emojis/Fox.png" width="30">
+
+<img src="Estrella/emojis/Star.png" width="30">
+
+# Paso1: Con esta Pagina pondran Descargar imagenes en movimiento.De cualquier tipo, desde Anime, bosques, cielos etc ( Espero que les sea de ayuda)
+
+# Lick:https://postimages.org/
+
+# Les dejare unos Ejemplos
+
+[![giphy.gif](https://i.postimg.cc/m2gMjmxp/giphy.gif)](https://postimg.cc/0rhb2dy7)
+
+[![giphy-3.gif](https://i.postimg.cc/GmKKM49d/giphy-3.gif)](https://postimg.cc/Jsyj04b2)
+
+[![giphy-2.gif](https://i.postimg.cc/fbx8x8Xq/giphy-2.gif)](https://postimg.cc/SXxL47gc)
+
+# Paso2: Con esta página Podrán descargar Imagenes de cualquier tipo claro que sean con movimiento. (Espero que les agrade)
+
+# Lick2:https://giphy.com/
+
+## '☔🌠 Gracias por su atención☔🌠'
