@@ -26,6 +26,41 @@ Ejemplar:
 2:
 <img src="Estrella/emojis/Comet.png" width="30">
 ```
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+## `INSTALACION POR TERMUX`
+
+```bash
+termux-setup-storage
+```
+
+```bash
+apt-get update -y && apt-get upgrade -y
+```
+
+```bash
+pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
+```
+
+```bash
+git clone https://github.com/Atsushi321/AiHoshino-MD && cd AiHoshino-MD && yarn install && npm install
+```
+
+```bash
+ls
+```
+```bash
+npm update
+```
+
+```bash
+npm start
+```
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 ### Demostracion del comando:
 <img src="Estrella/emojis/Comet.png" width="30">
 
