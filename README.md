@@ -89,7 +89,7 @@ npm start
 
 <img src="Estrella/emojis/Star.png" width="30">
 
-# Paso1: Con esta Pagina pondran Descargar imagenes en movimiento.De cualquier tipo, desde Anime, bosques, cielos etc ( Espero que les sea de ayuda)
+# Paso1: "Con esta Pagina pondran Descargar imagenes en movimiento de cualquier tipo de Imaguen desde Anime,Lugares,Climas, universo etc ( Espero que les sea de ayuda)"
 
 # Lick:https://postimages.org/
 
@@ -101,7 +101,7 @@ npm start
 
 [![giphy-2.gif](https://i.postimg.cc/fbx8x8Xq/giphy-2.gif)](https://postimg.cc/SXxL47gc)
 
-# Paso2: Con esta página Podrán descargar Imagenes de cualquier tipo claro que sean con movimiento. (Espero que les agrade)
+# Paso2: Con esta página Podrán descargar Imagenes de cualquier tipo claro que sean con movimiento. (Espero que les sea muy Util)
 
 # Lick2:https://giphy.com/
 
